@@ -85,4 +85,5 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/architecture.md`](docs/architecture.md) — текущая архитектура;
 - [`docs/easy-mode.md`](docs/easy-mode.md) — Easy Mode;
 - [`docs/expert-mode.md`](docs/expert-mode.md) — Expert Mode;
-- [`docs/release-process.md`](docs/release-process.md) — выпуск релизов.
+- [`docs/release-process.md`](docs/release-process.md) — выпуск релизов;
+- [`docs/website.md`](docs/website.md) — отдельный сайт Owl-IN и его связь с Owl-IN ServiceKit.
