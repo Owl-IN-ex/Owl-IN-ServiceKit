@@ -1,0 +1,47 @@
+# .NET
+bin/
+obj/
+publish/
+artifacts/
+
+# Runtime / generated payloads
+runtime/
+Launcher/payload.zip
+*.pdb
+*.log
+
+# Local ServiceKit data
+logs/*
+!logs/.gitkeep
+history/
+quarantine/
+reports/
+backups/
+resume-state.json
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Release binaries
+*.exe
+*.msi
+*.msix
+*.sha256
+
+# Secrets / signing
+*.pfx
+*.p12
+*.snk
+*.key
+*.pem
+.env
+.env.*
