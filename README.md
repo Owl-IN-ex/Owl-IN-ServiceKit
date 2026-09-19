@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/readme-cover.jpg" alt="Owl-IN ServiceKit" width="100%">
+  <img src="docs/images/readme-cover.png" alt="Owl-IN ServiceKit" width="100%">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ### Easy Mode — «У меня проблема»
 
 <p align="center">
-  <img src="docs/images/easy-mode.jpg" alt="Owl-IN ServiceKit — Easy Mode — У меня проблема" width="100%">
+  <img src="docs/images/easy-mode.png" alt="Owl-IN ServiceKit — Easy Mode — У меня проблема" width="100%">
 </p>
 
 Пользователь выбирает симптом, после чего Owl-IN ServiceKit запускает соответствующую проверку и показывает результат без необходимости вручную разбирать технические данные.
@@ -48,7 +48,7 @@
 ### Expert Mode — «Сеть»
 
 <p align="center">
-  <img src="docs/images/expert-mode.jpg" alt="Owl-IN ServiceKit — Expert Mode — Сеть" width="100%">
+  <img src="docs/images/expert-mode.png" alt="Owl-IN ServiceKit — Expert Mode — Сеть" width="100%">
 </p>
 
 Технический режим показывает состояние сети, прокси, hosts, VPN/TUN-интерфейсов, сетевых драйверов и других компонентов, которые могут влиять на подключение.
