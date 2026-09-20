@@ -55,14 +55,14 @@
 
 ## Текущая версия
 
-**1.0.3** — первый публичный выпуск Owl-IN ServiceKit.
+**1.0.4** — актуальный стабильный выпуск Owl-IN ServiceKit.
 
-**[Скачать Owl-IN ServiceKit 1.0.3](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.0.3)**
+**[Скачать Owl-IN ServiceKit 1.0.4](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.0.4)**
 
 Проверенный SHA-256 релизного EXE:
 
 ```text
-472cc302dd092867ef49af3ea253df418f4377e4ea17a2057ef4b9020ded1d7d
+f11c27be40cb61e4486b182826841f5c27b5a844c6a091163f51fcf5d722b8c6
 ```
 
 Готовые EXE не хранятся среди исходников репозитория. Релизные сборки публикуются отдельно через **GitHub Releases**.
@@ -86,4 +86,5 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/easy-mode.md`](docs/easy-mode.md) — Easy Mode;
 - [`docs/expert-mode.md`](docs/expert-mode.md) — Expert Mode;
 - [`docs/release-process.md`](docs/release-process.md) — выпуск релизов;
+- [`docs/releases/1.0.4.md`](docs/releases/1.0.4.md) — примечания к текущему выпуску;
 - [`docs/website.md`](docs/website.md) — отдельный сайт Owl-IN и его связь с Owl-IN ServiceKit.
