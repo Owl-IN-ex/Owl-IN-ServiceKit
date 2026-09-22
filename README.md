@@ -24,8 +24,8 @@
 - проверка сети, DNS, прокси, VPN/TUN, hosts и компонентов, влияющих на соединение;
 - диагностика накопителей, RAM/BSOD, Windows Update, служб, автозапуска и событий Windows;
 - анализ подозрительной фоновой активности с учётом процессов, путей, подписи и механизмов автозапуска;
-- безопасная изоляция подозрительных объектов с возможностью восстановления;
-- действия восстановления с резервированием, проверкой результата и откатом там, где это поддерживается;
+- анализ подозрительных объектов и связанных механизмов автозапуска;
+- восстановление подключения после некорректных proxy/PAC-настроек, оставшихся после VPN;
 - отчёты, история запусков и раздел восстановления;
 - запуск из одного EXE без отдельной установки.
 
@@ -55,14 +55,14 @@
 
 ## Текущая версия
 
-**1.0.4** — актуальный стабильный выпуск Owl-IN ServiceKit.
+**1.1.0** — актуальный стабильный выпуск Owl-IN ServiceKit.
 
-**[Скачать Owl-IN ServiceKit 1.0.4](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.0.4)**
+**[Скачать Owl-IN ServiceKit 1.1.0](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.1.0)**
 
 Проверенный SHA-256 релизного EXE:
 
 ```text
-f11c27be40cb61e4486b182826841f5c27b5a844c6a091163f51fcf5d722b8c6
+6b913b3a2d9d04e2a83ed535baa5a2f101b87763340b84eb45019acc5e7ea9b4
 ```
 
 Готовые EXE не хранятся среди исходников репозитория. Релизные сборки публикуются отдельно через **GitHub Releases**.
@@ -86,5 +86,6 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/easy-mode.md`](docs/easy-mode.md) — Easy Mode;
 - [`docs/expert-mode.md`](docs/expert-mode.md) — Expert Mode;
 - [`docs/release-process.md`](docs/release-process.md) — выпуск релизов;
-- [`docs/releases/1.0.4.md`](docs/releases/1.0.4.md) — примечания к текущему выпуску;
+- [`docs/releases/1.0.4.md`](docs/releases/1.0.4.md) — примечания к выпуску 1.0.4;
+- [`docs/releases/1.1.0.md`](docs/releases/1.1.0.md) — примечания к текущему выпуску;
 - [`docs/website.md`](docs/website.md) — отдельный сайт Owl-IN и его связь с Owl-IN ServiceKit.
