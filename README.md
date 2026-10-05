@@ -55,15 +55,17 @@
 
 ## Текущая версия
 
-**1.1.0** — актуальный стабильный выпуск Owl-IN ServiceKit.
+**1.2.1** — актуальный стабильный выпуск Owl-IN ServiceKit.
 
-**[Скачать Owl-IN ServiceKit 1.1.0](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.1.0)**
+**[Скачать Owl-IN ServiceKit 1.2.1](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.2.1)**
 
-Проверенный SHA-256 релизного EXE:
+Проверенный релизный файл: `Owl-IN-ServiceKit-1.2.1.exe`.
 
 ```text
-6b913b3a2d9d04e2a83ed535baa5a2f101b87763340b84eb45019acc5e7ea9b4
+SHA-256: f051f13315c9dd76aeb25e57255607cae498b09203e580080e8812ef5abebc66
 ```
+
+Закрытие окна крестиком сворачивает приложение в область уведомлений. Для полного завершения выберите **«Выйти»** в меню значка. Перед запуском новой версии завершите предыдущую.
 
 Готовые EXE не хранятся среди исходников репозитория. Релизные сборки публикуются отдельно через **GitHub Releases**.
 
@@ -87,6 +89,7 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/expert-mode.md`](docs/expert-mode.md) — Expert Mode;
 - [`docs/release-process.md`](docs/release-process.md) — выпуск релизов;
 - [`docs/releases/1.0.4.md`](docs/releases/1.0.4.md) — примечания к выпуску 1.0.4;
-- [`docs/releases/1.1.0.md`](docs/releases/1.1.0.md) — примечания к текущему выпуску;
+- [`docs/releases/1.1.0.md`](docs/releases/1.1.0.md) — примечания к выпуску 1.1.0;
+- [`docs/releases/1.2.1.md`](docs/releases/1.2.1.md) — примечания к текущему выпуску;
 
 - [`docs/website.md`](docs/website.md) — отдельный сайт Owl-IN и его связь с Owl-IN ServiceKit.
