@@ -21,6 +21,7 @@
 - быстрый **Quick Scan** компьютера;
 - режим **Easy Mode** с понятными сценариями «У меня проблема»;
 - режим **Expert Mode** с расширенной технической диагностикой;
+- диспетчер процессов с CPU, RAM, GPU и VRAM, поиском и подробностями программы;
 - проверка сети, DNS, прокси, VPN/TUN, hosts и компонентов, влияющих на соединение;
 - диагностика накопителей, RAM/BSOD, Windows Update, служб, автозапуска и событий Windows;
 - анализ подозрительной фоновой активности с учётом процессов, путей, подписи и механизмов автозапуска;
@@ -55,14 +56,14 @@
 
 ## Текущая версия
 
-**1.2.1** — актуальный стабильный выпуск Owl-IN ServiceKit.
+**1.3.0** — актуальный стабильный выпуск Owl-IN ServiceKit.
 
-**[Скачать Owl-IN ServiceKit 1.2.1](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.2.1)**
+**[Скачать Owl-IN ServiceKit 1.3.0](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.3.0)**
 
-Проверенный релизный файл: `Owl-IN-ServiceKit-1.2.1.exe`.
+Проверенный релизный файл: `Owl-IN-ServiceKit-1.3.0.exe`.
 
 ```text
-SHA-256: f051f13315c9dd76aeb25e57255607cae498b09203e580080e8812ef5abebc66
+SHA-256: b9c006919795ec12c12ff51547be03f12f04c7b2e818461a1e57aabcefd7c290
 ```
 
 Закрытие окна крестиком сворачивает приложение в область уведомлений. Для полного завершения выберите **«Выйти»** в меню значка. Перед запуском новой версии завершите предыдущую.
@@ -90,6 +91,8 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/release-process.md`](docs/release-process.md) — выпуск релизов;
 - [`docs/releases/1.0.4.md`](docs/releases/1.0.4.md) — примечания к выпуску 1.0.4;
 - [`docs/releases/1.1.0.md`](docs/releases/1.1.0.md) — примечания к выпуску 1.1.0;
-- [`docs/releases/1.2.1.md`](docs/releases/1.2.1.md) — примечания к текущему выпуску;
+- [`docs/RELEASE-NOTES-1.3.0.md`](docs/RELEASE-NOTES-1.3.0.md) — примечания к текущему выпуску;
 
 - [`docs/website.md`](docs/website.md) — отдельный сайт Owl-IN и его связь с Owl-IN ServiceKit.
+
+Подробнее о диспетчере процессов и собственном сборе данных: [документация](docs/PROCESS-MONITOR.md).
