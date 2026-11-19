@@ -22,6 +22,7 @@
 - режим **Easy Mode** с понятными сценариями «У меня проблема»;
 - режим **Expert Mode** с расширенной технической диагностикой;
 - диспетчер процессов с CPU, RAM, GPU и VRAM, поиском и подробностями программы;
+- аппаратные датчики с историей и список пакетов драйверов со связанными устройствами;
 - проверка сети, DNS, прокси, VPN/TUN, hosts и компонентов, влияющих на соединение;
 - диагностика накопителей, RAM/BSOD, Windows Update, служб, автозапуска и событий Windows;
 - анализ подозрительной фоновой активности с учётом процессов, путей, подписи и механизмов автозапуска;
@@ -56,14 +57,14 @@
 
 ## Текущая версия
 
-**1.3.0** — актуальный стабильный выпуск Owl-IN ServiceKit.
+**1.4.0** — актуальный стабильный выпуск Owl-IN ServiceKit.
 
-**[Скачать Owl-IN ServiceKit 1.3.0](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.3.0)**
+**[Скачать Owl-IN ServiceKit 1.4.0](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.4.0)**
 
-Проверенный релизный файл: `Owl-IN-ServiceKit-1.3.0.exe`.
+Проверенный релизный файл: `Owl-IN-ServiceKit-1.4.0.exe`.
 
 ```text
-SHA-256: b9c006919795ec12c12ff51547be03f12f04c7b2e818461a1e57aabcefd7c290
+SHA-256: fc2a8a000542e5cef7ed2123031d3fe3b188a710af452e92ae6b92a3a3e551a8
 ```
 
 Закрытие окна крестиком сворачивает приложение в область уведомлений. Для полного завершения выберите **«Выйти»** в меню значка. Перед запуском новой версии завершите предыдущую.
@@ -88,4 +89,4 @@ Owl-IN-ServiceKit-x.y.z.exe
 - [`docs/architecture.md`](docs/architecture.md) — текущая архитектура;
 - [`docs/easy-mode.md`](docs/easy-mode.md) — Easy Mode;
 - [`docs/expert-mode.md`](docs/expert-mode.md) — Expert Mode;
-- [`docs/RELEASE-NOTES-1.3.0.md`](docs/RELEASE-NOTES-1.3.0.md) — примечания к текущему выпуску;
+- [Примечания к текущему выпуску](https://github.com/Owl-IN-ex/Owl-IN-ServiceKit/releases/tag/v1.4.0).
